@@ -9,5 +9,7 @@ public class Main {
         long value4 = 4444444444444444L;
         double value5 = 4.555555;
         float value6 = 4.55555555f;
+        char value7 = 'A';
+        String value8 ="AB";
     }
 }
